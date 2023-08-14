@@ -2,5 +2,5 @@ Spring Inventory Application
 
 Author: Stanton Barbadillo
 
-Web-Based Spring Inventory Application"
+Web-Based Spring Inventory Application
 
